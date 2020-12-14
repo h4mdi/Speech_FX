@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Test_FX:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Test_FX_jar</output-path>
+    <root id="archive" name="Test_FX.jar">
+      <element id="module-output" name="Speech_FX" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/sphinx4-core-5prealpha.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/sphinx4-data-1.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
